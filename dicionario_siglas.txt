@@ -37,8 +37,6 @@
     'IDEB_FFUND': 'IDEB Federal Ensino Fundamental1 e Ensino Fundamental2 (Média)',
     'MCEXT': 'Mercadorias Comercializadas no Exterior',
     'NMU': 'Nome do Município',
-    'NSLPM_F2': 'Nota SAEB Língua Portuguesa Municipal ENSINO FUNDAMENTAL2',
-    'NSLPM_M': 'Nota SAEB Língua Portuguesa Municipal Ensino Médio',
     'NSMAT_EF1M': 'Nota SAEB Matemática Estadual ENSINO FUNDAMENTAL1 (Média)',
     'NSMAT_EF2M': 'Nota SAEB Matemática Estadual ENSINO FUNDAMENTAL2 (Média)',
     'NSMAT_EMM': 'Nota SAEB Matemática Estadual Ensino Médio (Média)',
